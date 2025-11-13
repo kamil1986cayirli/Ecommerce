@@ -1,0 +1,7 @@
+product_id,title,description,brand,category,attributes,price,cost,stock,image_url
+P1001,Kablosuz Kulaklık Bluetooth 5.3,"Uzun pil ömrü, gürültü engelleme",SoundMax,Elektronik,"{""renk"": ""siyah"", ""garanti"": ""24ay""}",999.0,650.0,120,
+P1002,Erkek Spor Ayakkabı,"Rahat taban, günlük kullanım",RunPro,Moda,"{""numara"": ""42"", ""malzeme"": ""suni deri""}",799.0,420.0,85,
+P1003,Çelik Tencere Seti 6 Parça,Bulaşık makinesinde yıkanabilir,ChefHouse,Ev & Yaşam,"{""parca"": ""6"", ""kaplama"": ""\u00e7elik""}",1499.0,880.0,60,
+P1004,Nemlendirici Yüz Kremi 50ml,Hyaluronik asit içerir,DermaWell,Kozmetik,"{""cilt"": ""karma"", ""icerik"": ""HA""}",229.0,90.0,200,
+P1005,Oto Telefon Tutucu,Mıknatıslı güçlü kavrama,AutoGrip,Otomotiv,"{""tip"": ""m\u0131knat\u0131sl\u0131""}",199.0,70.0,150,
+P1006,Akıllı Saat GPS,Kalp ritmi ve uyku takibi,FitPulse,Elektronik,"{""gps"": ""var"", ""su_gecirmez"": ""IP68""}",2199.0,1350.0,40,

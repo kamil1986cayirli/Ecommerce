@@ -1,0 +1,5 @@
+campaign_id,name,type,value,min_basket,channel,category
+KAMP10,Sepete %10,percentage,10,300,email,
+KAMP15E,Elektronik %15,category_pct,15,500,push,Elektronik
+KARGO,Ücretsiz Kargo,shipping,0,200,email,
+CASH50,50 TL Nakit İade,cashback,50,400,push,
